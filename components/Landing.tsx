@@ -71,7 +71,7 @@ export const Landing: React.FC<LandingProps> = ({ onGetStarted, onLogin, onNavig
       <div className="bg-slate-100 dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 py-1.5 px-4">
         <div className="max-w-7xl mx-auto flex items-center gap-2 text-[10px] sm:text-xs font-medium text-slate-600 dark:text-slate-400 uppercase tracking-wider">
           <Flag className="w-3 h-3 sm:w-4 sm:h-4 text-gov-blue dark:text-blue-400 fill-current" />
-          <span>An official initiative of the NH Regional Procurement Office</span>
+          <span>Presidential AI Challenge 2026 Technical Implementation</span>
         </div>
       </div>
 
