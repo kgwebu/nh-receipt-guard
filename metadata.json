@@ -1,0 +1,7 @@
+{
+  "name": "NH Receipt Guard2",
+  "description": "An AI-powered purchase review and waste prevention tool for schools and towns, helping reviewers spot duplicates and wasteful spending with a modern, Copilot-inspired interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
