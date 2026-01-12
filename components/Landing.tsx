@@ -323,9 +323,9 @@ export const Landing: React.FC<LandingProps> = ({ onGetStarted, onLogin, onNavig
             <div>
                <h4 className="font-bold text-slate-900 dark:text-white mb-6 uppercase tracking-wider text-sm">Contact</h4>
                <ul className="space-y-4 text-sm text-slate-600 dark:text-slate-400">
-                  <li>helpdesk@nhguard.gov</li>
-                  <li>(603) 555-0192</li>
-                  <li>107 N Main St, Concord, NH</li>
+                  <li>demo@nhreceiptguard.example</li>
+                  <li>(555) 123-4567</li>
+                  <li>Demo Project - Not a Real Address</li>
                </ul>
             </div>
           </div>
