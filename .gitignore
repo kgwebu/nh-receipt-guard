@@ -40,3 +40,9 @@ ui-debug.log
 
 # Sensitive config
 **/config/secrets.*
+
+# Internal documentation (keep local only)
+COMPETITION_FEATURES.md
+DEMO_SCRIPT.md
+IMPLEMENTATION_SUMMARY.md
+Presidential-AI-Challenge-Guidebook-for-Participation.pdf
