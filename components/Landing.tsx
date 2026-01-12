@@ -66,14 +66,6 @@ const AnimatedStat = ({ target, duration = 2000, prefix = "", suffix = "", decim
 export const Landing: React.FC<LandingProps> = ({ onGetStarted, onLogin, onNavigate }) => {
   return (
     <div className="min-h-screen flex flex-col bg-white dark:bg-slate-950 font-sans text-slate-900 dark:text-slate-100">
-      
-      {/* Official Government Banner */}
-      <div className="bg-slate-100 dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 py-1.5 px-4">
-        <div className="max-w-7xl mx-auto flex items-center gap-2 text-[10px] sm:text-xs font-medium text-slate-600 dark:text-slate-400 uppercase tracking-wider">
-          <Flag className="w-3 h-3 sm:w-4 sm:h-4 text-gov-blue dark:text-blue-400 fill-current" />
-          <span>Presidential AI Challenge 2026 Technical Implementation</span>
-        </div>
-      </div>
 
       {/* Navigation */}
       <nav className="sticky top-0 w-full bg-white/95 dark:bg-slate-950/95 backdrop-blur-sm z-50 border-b border-slate-200 dark:border-slate-800 shadow-sm">
